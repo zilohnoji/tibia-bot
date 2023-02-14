@@ -1,0 +1,5 @@
+coloroma
+sys
+pyautogui
+time
+threading
